@@ -38,7 +38,7 @@ html {
     top: 10%;
     background-color: var(--White);
     width: 44vw;
-    height: max-content;
+    height: auto;
     margin-top: 13rem;
     border-radius: 1rem;
     padding: 1rem 4rem 2rem 4rem;
@@ -101,7 +101,7 @@ html {
     display: none;
 }
 
-@media(max-width: 540px) {
+@media(max-width: 700px) {
     .body {
         background-image: url(assets/images/background-pattern-mobile.svg);
     }
