@@ -25,8 +25,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-card-LmOJqdYLAP)
-- Live Site URL: [Blog Card](https://cris575.github.io/Blog-Card/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/faq-accordion-RenT774rfr)
+- Live Site URL: [Blog Card](https://github.com/Cris575/FAQ-accordion)
 
 ### Built with
 
