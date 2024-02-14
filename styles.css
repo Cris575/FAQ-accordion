@@ -34,9 +34,11 @@ html {
 }
 
 .container {
+    position: relative;
+    top: 10%;
     background-color: var(--White);
     width: 44vw;
-    height: auto;
+    height: max-content;
     margin-top: 13rem;
     border-radius: 1rem;
     padding: 1rem 4rem 2rem 4rem;
